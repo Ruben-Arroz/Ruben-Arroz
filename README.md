@@ -87,7 +87,7 @@ An open world drift and racing game set in rural Portugal, built in Roblox Studi
 
 `PHP` `MySQL` `Lua` `Roblox Studio`
 
-#### RetroClub (private repo)
+#### [RetroClub](https://retroclub.pt) (private repo)
 An e-commerce platform for reselling football boots, jerseys and other sports gear. I co-founded it and built it from the ground up: pricing and profit-sharing logic, a full web app with an admin dashboard, financial tracking, order management and a public storefront.
 
 `TypeScript` `React` `Next.js` `Supabase`
